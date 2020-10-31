@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" alt="GIF" style="width: 10px;" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
 ![SrilalS](https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![SrilalS](https://github-readme-stats.vercel.app/api/top-langs/?username=prineth&layout=compact&langs_count=6&theme=algolia)
 <!--
@@ -40,5 +41,5 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-<img align="right" alt="GIF" style="width: 10px;" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
+
 ### Show some ❤️ by starring some of the repositories!
