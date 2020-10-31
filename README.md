@@ -32,6 +32,13 @@ Here are some ideas to get you started:  -->
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prineth Fernando's DEV Profile" height="30" width="30">
 </a>
 -->
-
+<a href="https://github.com/prineth">
+  <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
+</a>
+ <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img
+      align="center"
+      src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
+  </a><br>
 
 ### Show some ❤️ by starring some of the repositories!
