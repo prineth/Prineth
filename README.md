@@ -41,6 +41,8 @@ Here are some ideas to get you started:  -->
 <a href="https://dev.to/prineth">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Prineth Fernando's DEV Profile" height="30" width="30">
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <a href="https://github.com/prineth">
   <img src="https://img.shields.io/github/followers/prineth?label=Follow&style=social" />
