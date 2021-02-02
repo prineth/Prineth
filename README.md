@@ -50,11 +50,11 @@ Here are some ideas to get you started:  -->
 <br>
 
 
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+ <a href="https://github.com/prineth/github-profile-views-counter">
     <img
       align="center"
       src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![prineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prineth)](https://github.com/prineth/github-readme-stats)
 
 ### Show some ❤️ by starring some of the repositories!
