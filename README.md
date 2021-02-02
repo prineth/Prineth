@@ -57,4 +57,4 @@ Here are some ideas to get you started:  -->
   </a><br>
 
 
-<p align="left">### Show some ❤️ by starring some of the repositories!</p>
+### Show some ❤️ by starring some of the repositories!
