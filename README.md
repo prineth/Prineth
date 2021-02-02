@@ -1,6 +1,6 @@
-Hi there 👋
+###Hi there 👋
 
-
+  [![prineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prineth)](https://github.com/prineth/github-readme-stats)
 <img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
 
 <!--
@@ -55,6 +55,6 @@ Here are some ideas to get you started:  -->
       align="center"
       src="https://komarev.com/ghpvc/?username=prineth&color=blueviolet&label=PROFILE+VIEWS" />
   </a><br>
-  [![prineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prineth)](https://github.com/prineth/github-readme-stats)
+
 
 ### Show some ❤️ by starring some of the repositories!
